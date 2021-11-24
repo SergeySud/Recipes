@@ -1,5 +1,4 @@
-# recipes_project
-The project is in recipes_project/src/main/java/
+# recipes
 
 A multi-user web service with Spring Boot that allows storing, retrieving, updating, and deleting recipes in H2 database.
  
